@@ -1,0 +1,8 @@
+[package]
+name = "renovate-cargo-git-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+empty-git-lib = { git = "https://github.com/richvdh/empty-git-lib", version = "0.1.0" }
+
